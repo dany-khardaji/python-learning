@@ -1,0 +1,3 @@
+grocery_list = ["Bananas", "Avacados", "Apples", "Potatoes",]      # This is a list of grocery items. Each item is a string, and the items are separated by commas. The list is enclosed in square brackets.
+
+print(grocery_list[0], grocery_list[1], grocery_list[2], grocery_list[3])                      # prints the items from index 0 to 3, which are "Bananas", "Avacados", "Apples", and "Potatoes". Remember that list indexing starts at 0.
